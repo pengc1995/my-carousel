@@ -67,3 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # my-carousel
+
+This carousel combines two carousel: one is image and the other is relative content. These two carousels are the nav for each other. 
